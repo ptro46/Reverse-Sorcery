@@ -1,0 +1,30 @@
+{
+  "source": "sorcery-amtrad-cpc-1985.dsk",
+  "sha256": "d0a4df5c7e553014505cd803057d6c2282ba4543ba0bd309e8045860afbb45d4",
+  "files": [
+    {
+      "name": "SORCERY1.BIN",
+      "type": 2,
+      "load": 10182,
+      "entry": 0,
+      "length": 31550,
+      "sha256": "5d581b8fa538e4b4644769ae670faa295cfb55864ca028136f49b4a160d0f20f"
+    },
+    {
+      "name": "SORCERY2.BIN",
+      "type": 2,
+      "load": 1487,
+      "entry": 1487,
+      "length": 8695,
+      "sha256": "5f1e14c326c1c1029a87829f88de16beea1fc84ac9ee03056194a4a5ac0ce0d9"
+    },
+    {
+      "name": "SORCERY.BAS",
+      "type": 0,
+      "load": 368,
+      "entry": 0,
+      "length": 534,
+      "sha256": "e19dae44d1035d3c246978214b572cffa2b7b13dda07aa64c999b79a04e0dbb2"
+    }
+  ]
+}
